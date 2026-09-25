@@ -1,0 +1,14 @@
+item,response,frequency,denominator,denominator_status,percent
+Story recall,Could recall a story with a moral message,17,20,inferred from Appendix F frequency total; verify against source records,85.0
+Story recall,Could not recall a specific story,3,20,inferred from Appendix F frequency total; verify against source records,15.0
+Most-enjoyed story,The Boy Who Cried Wolf,6,20,inferred from Appendix F frequency total; verify against source records,30.0
+Most-enjoyed story,The Honest Woodcutter,5,20,inferred from Appendix F frequency total; verify against source records,25.0
+Most-enjoyed story,The Golden Eggs,4,20,inferred from Appendix F frequency total; verify against source records,20.0
+Most-enjoyed story,The Bear and Two Friends,3,20,inferred from Appendix F frequency total; verify against source records,15.0
+Most-enjoyed story,Other / none,2,20,inferred from Appendix F frequency total; verify against source records,10.0
+Cultural perspective,English helps understand other values,15,20,inferred from Appendix F frequency total; verify against source records,75.0
+Cultural perspective,Not sure,4,20,inferred from Appendix F frequency total; verify against source records,20.0
+Cultural perspective,No,1,20,inferred from Appendix F frequency total; verify against source records,5.0
+Story preference,Stories with a clear moral lesson,12,20,inferred from Appendix F frequency total; verify against source records,60.0
+Story preference,Student decides what is right,5,20,inferred from Appendix F frequency total; verify against source records,25.0
+Story preference,Both,3,20,inferred from Appendix F frequency total; verify against source records,15.0
