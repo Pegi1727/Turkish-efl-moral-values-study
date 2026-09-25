@@ -203,7 +203,7 @@ If you utilize the datasets, analysis pipelines, or findings in your research, p
   author={Merrikhi, Pegah},
   journal={Applied Linguistics & Language Education},
   year={2026},
-  doi={10.5281/zenodo.XXXXXXX},
+  doi={10.5281/zenodo.22953550},
   url={https://github.com/Pegi1727/Turkish-efl-moral-values-study}
 }
 ```
