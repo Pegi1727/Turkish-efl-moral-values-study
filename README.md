@@ -3,7 +3,7 @@ readme_content = r'''# Integrating Moral Values in Turkish EFL Classrooms: Teach
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Code License: MIT](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXXX-blue.svg)](https://doi.org/10.5281/zenodo.22953550)
+[![DOI](https://img.shields.io/badge/DOI-110.5281/zenodo.22953550-blue.svg)](https://doi.org/10.5281/zenodo.22953550)
 [![Reproduction Status: Fully Verified](https://img.shields.io/badge/Reproducibility-Verified%20(N%3D50%2B50)-brightgreen.svg)](doc/REPRODUCIBILITY_GUIDE.md)
 
 ---
