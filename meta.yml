@@ -1,0 +1,79 @@
+dataset:
+  title: 'Integrating Moral Values in Turkish EFL Classrooms: Teachers'' Beliefs, Pedagogical Practices,
+    and Students'' Narrative Responses'
+  description: 'Mixed-methods study of moral values integration in English as a Foreign Language (EFL)
+    classrooms in Turkey: teacher questionnaire data, student questionnaire data, and thematic analysis
+    of students'' oral narrative reproduction tasks.'
+  version: 1.0.0
+  keywords:
+  - moral values
+  - EFL education
+  - values education
+  - English language teaching
+  - teacher beliefs
+  - pedagogical practices
+  - global citizenship education
+  - Turkish EFL classrooms
+  - student responses
+  - moral pedagogy
+  language:
+  - en
+  - tr
+  fields_of_science:
+  - Applied Linguistics
+  - Education
+  - TESOL
+  study_design:
+    type: mixed-methods (parallel quantitative and qualitative)
+    sampling: purposive
+    context: secondary and tertiary EFL institutions in Turkey
+    samples:
+    - cohort: EFL Teachers
+      n: 50
+      instrument: structured teacher questionnaire (role demarcation, curricular adequacy, value prioritization,
+        instructional practice and barriers)
+      format: questionnaire responses (aggregate frequencies)
+    - cohort: EFL Students
+      n: 50
+      instrument: categorical frequency item + oral narrative reproduction task (moral fables)
+      format: categorical responses + transcribed narratives with thematic codes
+    total_participants: 100
+    linkage_note: Teacher and student cohorts were collected as independent samples, not linked teacher-student
+      dyads.
+  analysis_methods:
+  - descriptive statistics (frequencies, percentages)
+  - Wilson score 95% confidence intervals
+  - thematic analysis (open coding)
+license:
+  data: CC-BY-4.0
+  code: MIT
+  text: CC-BY-4.0
+authors:
+- name: '[Principal Investigator Name]'
+  role: Investigation, Writing - Original Draft, Project administration
+  orcid: https://orcid.org/0000-0000-0000-0000
+  affiliation: '[Institution, Turkey]'
+contributors:
+- name: '[Co-investigator Name]'
+  role: Methodology, Formal analysis, Writing - Review & Editing
+repository:
+  directory_map:
+    data/raw/: Original questionnaire and interview/transcription source files (.docx)
+    data/processed/: Cleaned CSV/Excel datasets (teacher, student, narrative codes)
+    notebooks/: Jupyter notebooks for descriptive statistics, CIs and thematic coding
+    scripts/: Reproducible Python analysis scripts
+    figures/: Generated figures (.png, .pdf)
+    tables/: Generated tables (.xlsx via openpyxl, .docx via python-docx)
+    docs/: Questionnaire instruments and documentation
+    environment.yml: Conda environment specification
+    meta.yml: This repository/dataset metadata file
+    citation.cff: Academic citation metadata (CITATION.cff standard)
+    .github/workflows/reproducibility.yml: CI workflow for automated testing of notebooks and scripts
+  file_formats:
+  - .docx
+  - .csv
+  - .xlsx
+  - .ipynb
+  - .py
+  - .png
+  - .pdf

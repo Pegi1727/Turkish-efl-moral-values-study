@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this research repository, please cite it using the metadata below."
+title: "Integrating Moral Values in Turkish EFL Classrooms: Teachers' Beliefs, Pedagogical Practices, and Students' Narrative Responses"
+abstract: >-
+  A mixed-methods study of moral values integration in English as a Foreign
+  Language (EFL) classrooms in Turkey, combining questionnaire data from 50
+  EFL teachers and 50 EFL students with thematic analysis of students' oral
+  narrative reproduction tasks.
+authors:
+  - family-names: "[Surname]"
+    given-names: "[Given Name]"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "[Institution, Turkey]"
+version: 1.0.0
+date-released: "2024-01-01"
+license: CC-BY-4.0
+doi: "10.0000/placeholder-doi"
+repository-code: "https://github.com/[username]/moral-values-efl-turkey"
+keywords:
+  - moral values
+  - EFL education
+  - values education
+  - teacher beliefs
+  - global citizenship education
+  - Turkish EFL classrooms
